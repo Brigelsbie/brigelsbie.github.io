@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Mason Briggs"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Researcher and growing professional in pursuit of his MBA, expected 2027."
+  location         : "Albuquerque, NM"
   employer         : "University of New Mexico"
   uri              : https://github.com/Brigelsbie/masonbriggs.github.io/tree/master
   email            : "msbriggs@unm.edu" 
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=rKDQ51MAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-4537-2615"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Brigelsbie"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -69,7 +69,15 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-          
+          Clark, V. P., Valverde, H. P., Briggs, M. S., Mullins, T., Ortiz, J., & Pirrung, C. J. H. (2024). Closed-loop auditory stimulation (CLAS) during sleep augments language and discovery learning. *Brain Sciences, 14*(11), 1138.
+
+Clark, V. P., Valverde, H., Briggs, M., Mullins, T., Ortiz, J., Hwang, M., Crowley, S., … (2025). Closed-loop slow-oscillation stimulation improves sleep-dependent memory consolidation: A comparison of CL-tACS with CLAS. *Brain Stimulation*, 1. [Volume/issue missing]
+
+Clark, V., Gibson, B., Briggs, M., Hogevenn, J., Wertz, C., Woods, A. J. W., Phillips, J., … (2025). TDCS reverses learning deficits in mild cognitive impairment: Results of the MEMORI study, a randomized double blind clinical trial. *Brain Stimulation*, 1. [Volume/issue missing]
+
+Robert, B. M., Winder, A., Briggs, M. S., Atencio, G. I., & Clark, V. P. (2025). Facilitating novice visual search with tES over rIFG: Baseline-dependent gains in target identification. *Brain Sciences, 16*(1), 1.
+
+Trumbo, M. C. S., Jones, A. P., Robert, B. M., Briggs, M. S., & Clark, V. P. (2025). Using eye tracking to elucidate the mechanisms underlying stimulation-enhanced visual target detection. *International Journal of Cognitive Sciences, 1*(1), 2.
   conferences:
     title: 'Conference Papers'
 
