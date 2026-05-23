@@ -13,7 +13,7 @@ title                    : "Mason Briggs / Personal Website"
 title_separator          : "-"
 name                     : &name "Mason Briggs"
 description              : &description "Mason Briggs' Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://github.com/Brigelsbie/masonbriggs.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://brigelsbie.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Brigelsbie/masonbriggs.github.io"
@@ -23,7 +23,7 @@ repository               : "Brigelsbie/masonbriggs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/my headshot.jpg"
+  avatar           : "images/headshot.jpg"
   name             : "Mason Briggs"
   pronouns         : "He/Him"  
   bio              : "Researcher and growing professional in pursuit of his MBA, expected 2027."
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0000-4537-2615"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -69,7 +69,7 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-    
+  conferences:
     title: 'Conference Papers'
 
 # Site Settings
