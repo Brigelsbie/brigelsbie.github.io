@@ -23,7 +23,7 @@ repository               : "Brigelsbie/masonbriggs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/my headshot.jpg"
   name             : "Mason Briggs"
   pronouns         : "He/Him"  
   bio              : "Researcher and growing professional in pursuit of his MBA, expected 2027."
