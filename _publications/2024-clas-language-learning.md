@@ -1,6 +1,7 @@
 ---
 title: "Closed-loop auditory stimulation (CLAS) during sleep augments language and discovery learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-clas-language-learning
 date: 2024-11-13
 venue: "Brain Sciences"
